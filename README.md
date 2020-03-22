@@ -24,7 +24,7 @@
 
 ## query result
 
-![Using recursion to get all possible flight routes](https://github.com/LadyWinterD/Travel-Planning-for-Flight-Data/blob/master/Route5r.PNG)
+![Using recursion to get all possible flight routes](https://github.com/LadyWinterD/Travel-Planning-for-Flight-Data/blob/master/Route5R.PNG)
 
 * has a travel cost under 500 Euro
 * has fewer than 5 stops
